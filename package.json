@@ -1,0 +1,22 @@
+{
+  "name": "package_aeu",
+  "version": "1.0.4",
+  "description": "package_aeu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzawadka/package_aeu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lzawadka/package_aeu/issues"
+  },
+  "homepage": "https://github.com/lzawadka/package_aeu#readme",
+  "dependencies": {
+    "mongoose": "^5.13.2"
+  }
+}
